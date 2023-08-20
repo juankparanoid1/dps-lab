@@ -2,6 +2,9 @@
 .DS_Store
 Desktop.ini
 
+# Exclude .DS_Store files in all child directories
+**/.DS_Store
+
 # Thumbnail cache files
 ._*
 Thumbs.db

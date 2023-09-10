@@ -1,4 +1,4 @@
-# dps-lab
+# Desarrollo de Software Multiplataforma
 Guias de laboratiorio DPS 2023
 
 

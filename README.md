@@ -17,9 +17,9 @@ Ejercicio Complementario Guia-5
 
 ## Screenshots
 
-![Employee App](https://imgur.com/s5M4bot)
-![Employee App](https://imgur.com/PYGLLI2)
-![Employee App](https://imgur.com/D1QKGsm)
-![Employee App](https://imgur.com/GqYOvBH)
+![Employee App](https://i.imgur.com/s5M4bot.png)
+![Employee App](https://i.imgur.com/PYGLLI2.png)
+![Employee App](https://i.imgur.com/D1QKGsm.png)
+![Employee App](https://i.imgur.com/GqYOvBH.png)
 
 

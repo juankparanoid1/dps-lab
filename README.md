@@ -37,7 +37,7 @@ Ejercicio Complementario Guia-6
 ![Booking App](https://i.imgur.com/ZVp2iIl.png =200x200)
 
 # Android
-<img src="https://i.imgur.com/rYgo0Yh.png" alt="Booking App" width="300" height="200">
+<img src="https://i.imgur.com/rYgo0Yh.png" alt="Booking App" width="300">
 ![Booking App](https://i.imgur.com/bojPNOf.png =200x200)
 ![Booking App](https://i.imgur.com/9eHfqQX.png =200x200)
 ![Booking App](https://i.imgur.com/JpBQrQu.png =200x200)

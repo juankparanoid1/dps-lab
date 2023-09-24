@@ -7,8 +7,7 @@ Guias de laboratiorio DPS 2023
 Ejercicio Complementario Guia-4
 
 ## Screenshots
-
-![Food App](https://i.imgur.com/DJnsb9E.png =200x200)
+<img src="https://i.imgur.com/DJnsb9E.png" alt="Booking App" width="300">
 
 
 # Employees App
@@ -16,11 +15,10 @@ Ejercicio Complementario Guia-4
 Ejercicio Complementario Guia-5
 
 ## Screenshots
-
-![Employee App](https://i.imgur.com/s5M4bot.png =200x200)
-![Employee App](https://i.imgur.com/PYGLLI2.png =200x200)
-![Employee App](https://i.imgur.com/D1QKGsm.png =200x200)
-![Employee App](https://i.imgur.com/GqYOvBH.png =200x200)
+<img src="https://i.imgur.com/s5M4bot.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/PYGLLI2.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/D1QKGsm.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/GqYOvBH.png" alt="Booking App" width="300">
 
 # Booking App
 
@@ -29,18 +27,18 @@ Ejercicio Complementario Guia-6
 ## Screenshots
 
 # IOS
-![Booking App](https://i.imgur.com/QLyXhqj.png =200x200)
-![Booking App](https://i.imgur.com/vRm54gi.png =200x200)
-![Booking App](https://i.imgur.com/A7oAIrN.png =200x200)
-![Booking App](https://i.imgur.com/GLQp2TB.png =200x200)
-![Booking App](https://i.imgur.com/DfDb81h.png =200x200)
-![Booking App](https://i.imgur.com/ZVp2iIl.png =200x200)
+<img src="https://i.imgur.com/QLyXhqj.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/vRm54gi.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/A7oAIrN.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/GLQp2TB.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/DfDb81h.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/ZVp2iIl.png" alt="Booking App" width="300">
 
 # Android
 <img src="https://i.imgur.com/rYgo0Yh.png" alt="Booking App" width="300">
-![Booking App](https://i.imgur.com/bojPNOf.png =200x200)
-![Booking App](https://i.imgur.com/9eHfqQX.png =200x200)
-![Booking App](https://i.imgur.com/JpBQrQu.png =200x200)
-![Booking App](https://i.imgur.com/uwclPrj.png =200x200)
-![Booking App](https://i.imgur.com/rUk2pNQ.png =200x200)
+<img src="https://i.imgur.com/bojPNOf.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/9eHfqQX.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/JpBQrQu.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/uwclPrj.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/rUk2pNQ.png" alt="Booking App" width="300">
 

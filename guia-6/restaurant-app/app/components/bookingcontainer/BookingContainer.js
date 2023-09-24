@@ -1,14 +1,14 @@
-import { FlatList, SafeAreaView, StyleSheet, Text, View } from 'react-native'
+import { FlatList, SafeAreaView, Text, View } from 'react-native'
 import React from 'react'
 import Booking from '../booking/Booking';
 import Header from '../header/Header';
-import Spacing from '../../helpers/Spacing';
+import styleBookingContainer from './Style';
 
 const BookingContainer = ({ bookingList, deleteBooking }) => {
     return (
         <>
             <Header title={'Reservas'}></Header>
-            <SafeAreaView style={styles.container}>
+            <SafeAreaView style={styleBookingContainer.container}>
                 {
                     bookingList.length ? (
                         <>
@@ -21,8 +21,8 @@ const BookingContainer = ({ bookingList, deleteBooking }) => {
                     ) :
                         (
                             <>
-                                <View style={styles.emptyState}>
-                                    <Text style={styles.emptyStateLabel}>Sin reservas, crea una para disfrutar de tu comida</Text>
+                                <View style={styleBookingContainer.emptyState}>
+                                    <Text style={styleBookingContainer.emptyStateLabel}>Sin reservas, crea una para disfrutar de tu comida</Text>
                                 </View>
                             </>
                         )
@@ -35,19 +35,3 @@ const BookingContainer = ({ bookingList, deleteBooking }) => {
 
 export default BookingContainer
 
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-    },
-    emptyState: {
-        padding: Spacing.containerPadding,
-        flex: 1,
-        alignContent: 'center',
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-    emptyStateLabel: {
-        fontSize: 15,
-        fontWeight: 'bold'
-    }
-})

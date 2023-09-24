@@ -27,6 +27,7 @@ Ejercicio Complementario Guia-6
 ## Screenshots
 
 # IOS
+<img src="https://i.imgur.com/ivbO8g2.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/QLyXhqj.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/vRm54gi.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/A7oAIrN.png" alt="Booking App" width="300">
@@ -35,6 +36,7 @@ Ejercicio Complementario Guia-6
 <img src="https://i.imgur.com/ZVp2iIl.png" alt="Booking App" width="300">
 
 # Android
+<img src="https://i.imgur.com/yYtxA0t.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/rYgo0Yh.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/bojPNOf.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/9eHfqQX.png" alt="Booking App" width="300">

@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appointment-app",
+    "slug": "appointment-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appointment-app"
+}

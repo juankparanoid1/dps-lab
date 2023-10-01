@@ -44,3 +44,15 @@ Ejercicio Complementario Guia-6
 <img src="https://i.imgur.com/uwclPrj.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/rUk2pNQ.png" alt="Booking App" width="300">
 
+Ejercicio Complementario Guia-7
+
+## Screenshots
+
+# IOS
+<img src="https://i.imgur.com/LZsA1n0.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/iZQxJtU.png" alt="Booking App" width="300">
+
+# Android
+<img src="https://i.imgur.com/u1yDLpB.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/tSVDLMV.png" alt="Booking App" width="300">
+

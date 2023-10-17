@@ -64,15 +64,15 @@ Ejercicio Complementario Guia-8
 # IOS
 <img src="https://i.imgur.com/MEB5Iuk.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/STHRn6Q.png" alt="Booking App" width="300">
-<img src="https://i.imgur.com/iyB7k2S.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/RuHCjNG.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/aTtvEnI.png" alt="Booking App" width="300">
 
 # Android
-<img src="https://i.imgur.com/WxDw0LP.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/ALuVZVa.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/Zfe2AeL.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/G5UXl4L.png" alt="Booking App" width="300">
 <img src="https://i.imgur.com/hjztH90.png" alt="Booking App" width="300">
+<img src="https://i.imgur.com/WxDw0LP.png" alt="Booking App" width="300">
+
 
 

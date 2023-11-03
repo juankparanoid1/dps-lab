@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "colectores-app",
+    "slug": "colectores-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "colectores-app"
+}

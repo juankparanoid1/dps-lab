@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510956309554",
+    "project_id": "colectoresapp",
+    "storage_bucket": "colectoresapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510956309554:android:563bbf3826f446ff08c02b",
+        "android_client_info": {
+          "package_name": "com.colectoresapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQq-S9wC9RWeExq_g21pMSoAw2i61Vd4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
